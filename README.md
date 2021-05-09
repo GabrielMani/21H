@@ -1,7 +1,4 @@
-(setq markdown-xhtml-header-content
-    "<style type='text/css'>
-        .center { width:182px; margin: 1em auto; }
-    </style>")
+<styles>.center{border:1px solid red;}</styles>
 
 #### [Námsáætlun](https://github.com/vefgrunnur/21H/blob/main/Verkefni/VEF%C3%9E1VG05AU_V21-2.pdf) | [Bjargir](https://github.com/vefgrunnur/21H/wiki/Bjargir)
 
