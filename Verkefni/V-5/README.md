@@ -7,6 +7,6 @@ Nemendur öðlast skilning á:
 * staðsett efni á ákveðnum stað í vefsíðu
 
 * [Verkefnalýsing](Verkefni_5.pdf)
-* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-5), 2 vefsíður sem á að nota í verkefninu.
+* [Fylgigögn](https://github.com/vefgrunnur/21H/tree/main/S%C3%BDnid%C3%A6mi/V-5), 2 vefsíður sem á að nota í verkefninu.
 
 #### Einkunn verður birt í Innu
