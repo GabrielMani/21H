@@ -1,8 +1,8 @@
-# Aðalfyrirsögn - h1 (200%)
+Aðalfyrirsögn - h1 (200%)
 
-## Undirfyrirsögn - h2 (150%)
+Undirfyrirsögn - h2 (150%)
 
-### Millifyrirsögn - h3 (130%)
+Millifyrirsögn - h3 (130%)
 
 Áherslutexti - h4 (100%)
 
